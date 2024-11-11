@@ -8,7 +8,7 @@ Login2xexplore Company </br>
 Developed a Shipment Management Form utilizing JPDB to manage shipment details. The form includes Save, Change, and Reset functionalities, enabling real-time data updates and efficient database management.  </br>
 
 **Technical Environment Used** </br>
-NetBeans, Javascript, HTML, CSS, jQuery, Bootstrap and Backend JSON functionality.  </br>
+NetBeans IDE, Javascript, HTML, CSS, jQuery, Bootstrap and Backend JSON functionality.  </br>
 
 **Responsibilities** </br>
 1. Developed and designed a responsive Shipment Management Form using HTML, CSS, and Bootstrap.  </br>
@@ -38,6 +38,28 @@ Simplest way to retrieve data in a JSON format. Schema-free, Simple to use, Nimb
 **Examples of use :** can be used foe various other platforms like Online Shipping Form , Invoice , Delivery website , and many more other uses .
 
 **Project status :** Done
+
+## OTHER QUERIES
+
+**What was the goal of this project?** </br>
+
+1. Develop a responsive and user-friendly form for managing shipment data. </br>
+2. Integrate the form with a database for real-time data updates to ensure efficient data handling and retrieval. </br>
+
+**How did you develop this project?** </br>
+
+1. Designed and created the form layout using HTML and CSS for a clean and intuitive user interface. </br>
+2. Added interactive elements using JavaScript to enhance user experience and validate inputs dynamically. </br>
+3. Integrated the form with JSON Power DB (JPDB) for real-time data updates, enabling seamless data operations like create, read, update, and delete. </br>
+4. Tested and debugged the form to ensure cross-browser compatibility and optimal performance. </br>
+5. Conducted user testing to gather feedback and further refined the form for enhanced usability. </br>
+
+**What are some important features of the project?** </br>
+
+1. **Responsive Design:** The form adapts to different screen sizes, ensuring accessibility on mobile, tablet, and desktop devices. </br>
+2. **Real-Time Data Integration:** Changes to data are reflected instantly through integration with JSON Power DB (JPDB). </br>
+3. **Form Validation:** JavaScript validation ensures data integrity and prevents incorrect entries. </br>
+4. **User-Friendly Interface:** Simple and clean design makes it easy for users to input and manage shipment data effectively. </br>
 
 **Sources :** Introduction to JsonPowerDB - V2.0 https://careers.login2explore.com/course/view.php?id=14
 
